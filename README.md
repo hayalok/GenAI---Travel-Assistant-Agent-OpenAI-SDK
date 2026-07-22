@@ -38,7 +38,7 @@
    pip install -r requirements.txt
    ```
    Run the app:
-   streamlit run app.py
+   streamlit run v6_streamlit_agent.py
 
    Open the app at http://localhost:8501 in your browser.
 
