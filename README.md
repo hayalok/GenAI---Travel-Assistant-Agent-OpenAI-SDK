@@ -37,6 +37,12 @@
    ```
    pip install -r requirements.txt
    ```
+2. **Create a `.env` file in the root directory and add your openai credentials as follows:**
+
+```ini
+OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+```
+
    Run the app:
    streamlit run v6_streamlit_agent.py
 
