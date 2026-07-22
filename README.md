@@ -30,7 +30,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/FarazF19/OpenAI-Agent-SDK.git
+   git clone [https://github.com/FarazF19/OpenAI-Agent-SDK.git](https://github.com/hayalok/GenAI---Travel-Assistant-Agent-OpenAI-SDK.git)
    cd GenAI---Travel-Assistant-Agent-OpenAI-SDK
    Install dependencies:
    ```
